@@ -103,7 +103,7 @@ client_secret = "YOUR_REDDIT_CLIENT_SECRET"
 Run in terminal:  
 
 ```bash
-python main.py
+python meme.py
 ```
 
 The bot will:  
